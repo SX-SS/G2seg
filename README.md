@@ -1,4 +1,4 @@
-# Gaze-supervise Medical Image Segmentation
+# Gaze-supervised Medical Image Segmentation
 
 This project contains the training and testing code for the paper, as well as the model weights trained according to our method.
 
