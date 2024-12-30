@@ -1,4 +1,4 @@
-# Gaze-supervised Medical Image Segmentation
+# Graph-based Neighbor-Aware Network for Gaze-Supervised Medical Image Segmentation
 
 This project contains the training and testing code for the paper, as well as the model weights trained according to our method.
 
